@@ -8,7 +8,7 @@ OpenReagent is a toolkit and open standard for extracting vulnerability signatur
 
 # Scope of Lab
 
-This lab aims to build a toolkit that ingests security artifacts such as audit reports, incident analyses, and Proof-of-Concept (PoC) exploits, automatically extracts vulnerability signatures from them, and enables fast validation within the smart contract development lifecycle. Ultimately, Trident seeks to evolve into an industry-grade platform for structured and secure sharing of smart contract vulnerability intelligence.
+This lab aims to build a toolkit that ingests security artifacts such as audit reports, incident analysis, and Proof-of-Concept (PoC) exploits, automatically extracts vulnerability signatures from them, and enables fast validation within the smart contract development lifecycle. Ultimately, OpenReagent seeks to evolve into an industry-grade platform for structured and secure sharing of smart contract vulnerability intelligence.
 
 We will proceed in the following phases:
 
